@@ -86,12 +86,12 @@ body{
 img{
 	width: 125px;
 }*/
-@media and (min-width:100px){
+@media screen and (min-width:100px){
   html{background: #F50B0B;}
 }
-@media and (min-width:400px){
+@media screen and (min-width:400px){
   html{background: #0B60F5;}
 }
-@media and (min-width:700px){
+@media screen and (min-width:700px){
   html{background: #0BF52B;}
 }
